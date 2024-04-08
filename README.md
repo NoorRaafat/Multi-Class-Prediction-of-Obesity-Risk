@@ -1,8 +1,12 @@
 ## Obesity Classification Project
 <br>
-### This project aims to classify obesity levels based on various attributes using machine learning techniques. The dataset contains 17 attributes, and the records are labeled with the class variable NObesity (Obesity Level), which includes categories such as Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, and Obesity Type III. The goal is to build a classifier that can accurately predict the obesity level of individuals based on their attributes.
 
-The dataset used for this project can be found <a href="https://www.kaggle.com/competitions/playground-series-s4e2/data">Here</a>.
+### This project aims to classify obesity levels based on various attributes using machine learning techniques.
+### The dataset contains 17 attributes, and the records are labeled with the class variable NObesity (Obesity Level),
+### which includes categories such as Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, and Obesity Type III. 
+### The goal is to build a classifier that can accurately predict the obesity level of individuals based on their attributes.
+
+### The dataset used for this project can be found <a href="https://www.kaggle.com/competitions/playground-series-s4e2/data">Here</a>.
 
 Techniques Used
 The following machine learning techniques were employed for classification:
