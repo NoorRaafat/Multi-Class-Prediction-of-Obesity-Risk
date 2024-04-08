@@ -1,4 +1,4 @@
-## Obesity Classification Project
+## :pushpin: Obesity Classification Project
 <br>
 
  This project aims to classify obesity levels based on various attributes using machine learning techniques.
