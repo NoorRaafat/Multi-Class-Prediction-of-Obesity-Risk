@@ -43,7 +43,7 @@ The confusion matrix and classification report are provided to evaluate the mode
 
 .Model Evaluation: Evaluate the performance of the XGBoost model using metrics such as accuracy, precision, recall, and F1-score. Compare the results to assess the model's effectiveness in classifying obesity levels.
 
-### Predictions: Utilize the trained XGBoost model to make predictions on new or unseen data. Assess its performance based on the achieved accuracy.
+##### Predictions: Utilize the trained XGBoost model to make predictions on new or unseen data. Assess its performance based on the achieved accuracy.
 
 ### 🙋 References
 <br>
