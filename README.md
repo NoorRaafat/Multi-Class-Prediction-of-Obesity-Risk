@@ -8,26 +8,31 @@
 
  ###### The dataset used for this project can be found <a href="https://www.kaggle.com/competitions/playground-series-s4e2/data">Here</a>.
 
-### Techniques Used
+### 📝 Techniques Used
 <br>
 
 The following machine learning techniques were employed for classification:
 
 . Logistic Regression
+
 . Decision Trees
+
 . Random Forest
+
 . XGBoost
+
 . LGBMClassifer
 
 The main machine learning technique employed for classification is XGBoost due to its good performance.
 
-### Results
+### 🧠 Results
 <br>
 
 The LGBMClassifer model achieved an accuracy of 91% on the test dataset. 
 The confusion matrix and classification report are provided to evaluate the model's performance metrics such as precision, recall, and F1-score for each class.
 
-### Usage
+### ♣️ Usage
+
 <br>
 
 .Prepare the Dataset: Obtain the dataset and load it into your environment.
@@ -40,10 +45,14 @@ The confusion matrix and classification report are provided to evaluate the mode
 
 ### Predictions: Utilize the trained XGBoost model to make predictions on new or unseen data. Assess its performance based on the achieved accuracy.
 
-### References
+### 🙋 References
+<br>
 .Dataset
+
 .XGBoost Documentation
+
 .LGBMClassifer Documentation
+
 <br>
 
-##### Feel free to explore the notebooks and scripts provided in this repository for detailed implementation and analysis.
+##### 🤝 Feel free to explore the notebooks and scripts provided in this repository for detailed implementation and analysis.
