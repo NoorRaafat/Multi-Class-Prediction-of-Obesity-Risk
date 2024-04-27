@@ -13,15 +13,15 @@
 
 The following machine learning techniques were employed for classification:
 
-. Logistic Regression
-
-. Decision Trees
-
-. Random Forest
-
-. XGBoost
-
-. LGBMClassifer
+ . Logistic Regression
+ 
+ . Decision Trees
+ 
+ . Random Forest
+ 
+ . XGBoost
+ 
+ . LGBMClassifer
 
 The main machine learning technique employed for classification is XGBoost due to its good performance.
 
